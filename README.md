@@ -6,3 +6,6 @@ This README outlines the process to set up email authentication for user login a
 - Composer
 - Laravel 8.x or higher
 - A working SMTP mail provider (MailTrap.io)
+
+![Hasil email berhasil](![Uploading Screenshot 2024-12-19 150459.png…]()
+)
